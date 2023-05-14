@@ -13,3 +13,8 @@ This keyboard has 60 keys with an LCD display in the center.
 Raspberry Pi Pico
 
 GC9A01
+
+
+## ISSURE
+
+Encoder chattering
