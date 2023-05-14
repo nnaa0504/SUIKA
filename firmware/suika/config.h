@@ -1,4 +1,4 @@
-// Copyright 2023 naa0504 (@naa0504)
+// Copyright 2023 nnaa0504 (@nnaa0504)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
