@@ -1,6 +1,6 @@
 {
   "keyboard_name": "suika",
-  "maintainer": "nana",
+  "maintainer": "nnaa0504",
   "processor": "RP2040",
   "bootloader": "rp2040",
   "diode_direction": "COL2ROW",
